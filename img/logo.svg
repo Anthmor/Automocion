@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160" role="img" aria-label="Logotipo de AutoSolution">
+  <circle cx="80" cy="80" r="70" fill="#1f5f8b" />
+  <circle cx="80" cy="80" r="46" fill="none" stroke="#ffffff" stroke-width="14" stroke-dasharray="14 9" />
+  <circle cx="80" cy="80" r="30" fill="#ffffff" />
+  <path d="M62 80 h14 v-12 M76 80 h24 M88 80 v14" stroke="#1f5f8b" stroke-width="4" fill="none" />
+  <circle cx="76" cy="68" r="4" fill="#1f5f8b" />
+  <circle cx="88" cy="94" r="4" fill="#1f5f8b" />
+</svg>
